@@ -1,0 +1,9 @@
+[
+    {
+        "titulo": "Harry Potter",
+        "tipo": "libro",
+        "responsable": "J.K. Rowling",
+        "genero": "fantasía",
+        "valoracion": 5
+    }
+]
